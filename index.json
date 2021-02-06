@@ -5,7 +5,8 @@
         "from_code": "ar",
         "from_name": "Arabic",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ar_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -13,7 +14,8 @@
         "from_code": "de",
         "from_name": "German",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/de_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -21,7 +23,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "ar",
-        "to_name": "Arabic"
+        "to_name": "Arabic",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -29,7 +32,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "de",
-        "to_name": "German"
+        "to_name": "German",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_de.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -37,7 +41,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "es",
-        "to_name": "Spanish"
+        "to_name": "Spanish",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_es.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -45,7 +50,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "fr",
-        "to_name": "French"
+        "to_name": "French",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_fr.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -53,7 +59,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "it",
-        "to_name": "Italian"
+        "to_name": "Italian",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_it.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -61,7 +68,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "pt",
-        "to_name": "Portuguese"
+        "to_name": "Portuguese",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_pt.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -69,7 +77,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "ru",
-        "to_name": "Russian"
+        "to_name": "Russian",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ru.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -77,7 +86,8 @@
         "from_code": "en",
         "from_name": "English",
         "to_code": "zh",
-        "to_name": "Chinese"
+        "to_name": "Chinese",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_zh.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -85,7 +95,8 @@
         "from_code": "es",
         "from_name": "Spanish",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/es_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -93,7 +104,8 @@
         "from_code": "fr",
         "from_name": "French",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/fr_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -101,7 +113,8 @@
         "from_code": "it",
         "from_name": "Italian",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/it_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -109,7 +122,8 @@
         "from_code": "pt",
         "from_name": "Portuguese",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/pt_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -117,7 +131,8 @@
         "from_code": "ru",
         "from_name": "Russian",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -125,6 +140,7 @@
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
-        "to_name": "English"
+        "to_name": "English",
+	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/zh_en.argosmodel"]
     }
 ]
