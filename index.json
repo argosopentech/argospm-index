@@ -1,0 +1,130 @@
+[
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "ar",
+    "from_name": "Arabic",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "de",
+    "from_name": "German",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ar",
+    "to_name": "Arabic"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "de",
+    "to_name": "German"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "es",
+    "to_name": "Spanish"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "fr",
+    "to_name": "French"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "it",
+    "to_name": "Italian"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "pt",
+    "to_name": "Portuguese"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ru",
+    "to_name": "Russian"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "zh",
+    "to_name": "Chinese"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "es",
+    "from_name": "Spanish",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "fr",
+    "from_name": "French",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "it",
+    "from_name": "Italian",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "pt",
+    "from_name": "Portuguese",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "ru",
+    "from_name": "Russian",
+    "to_code": "en",
+    "to_name": "English"
+},
+{
+    "package_version": "1.0",
+    "argos_version": "1.0",
+    "from_code": "zh",
+    "from_name": "Chinese",
+    "to_code": "en",
+    "to_name": "English"
+}
+]
