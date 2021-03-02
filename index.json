@@ -81,13 +81,13 @@
 	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ru.argosmodel"]
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.1",
+        "argos_version": "1.1",
         "from_code": "en",
         "from_name": "English",
         "to_code": "zh",
         "to_name": "Chinese",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_zh.argosmodel"]
+	"links": ["https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel"]
     },
     {
         "package_version": "1.0",
@@ -135,12 +135,12 @@
 	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel"]
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.1",
+        "argos_version": "1.1",
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
         "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/zh_en.argosmodel"]
+	"links": ["https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel"]
     }
 ]
