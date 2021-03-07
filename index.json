@@ -142,5 +142,23 @@
         "to_code": "en",
         "to_name": "English",
 	"links": ["https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ja",
+        "to_name": "Japanese",
+	"links": ["https://storage.googleapis.com/argospm/translate-en_ja-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ja",
+        "from_name": "Japanese",
+        "to_code": "en",
+        "to_name": "English",
+	"links": ["https://storage.googleapis.com/argospm/translate-ja_en-1_1.argosmodel"]
     }
 ]
