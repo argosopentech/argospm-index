@@ -160,5 +160,23 @@
         "to_code": "en",
         "to_name": "English",
 	"links": ["https://storage.googleapis.com/argospm/translate-ja_en-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "hi",
+        "to_name": "Hindi",
+	"links": ["https://storage.googleapis.com/argospm/translate-en_hi-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "hi",
+        "from_name": "Hindi",
+        "to_code": "en",
+        "to_name": "English",
+	"links": ["https://storage.googleapis.com/argospm/translate-hi_en-1.1.argosmodel"]
     }
 ]
