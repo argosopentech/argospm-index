@@ -1,7 +1,7 @@
 var packageIndex = "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json";
 
 $(document).ready(function(){
-    var argospmIndexTable = $("#argospm-index-table");
+    var argospmIndexTable = $("#argospm-index-table").append("<table/>");
     var heading = $("<tr/>");
     heading.append("<th>From</th>");
     heading.append("<th>To</th>");
