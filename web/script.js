@@ -23,9 +23,11 @@ $(document).ready(function(){
 		tr.append(fromName);
 		var toName = $("<td/>").append(packageData.to_name);
 		tr.append(toName);
+		var linkTd = $("<td/>");
 		var link = $("<a/>").append("Download");
 		link.attr("href", packageData.links[0]);
-		tr.append(link);
+		linkTd.append(link);
+		tr.append(linkTd);
 		var fromCode = $("<td/>").append(packageData.from_code);
 		tr.append(fromCode);
 		var toCode = $("<td/>").append(packageData.to_code);
