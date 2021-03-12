@@ -12,6 +12,7 @@ $(document).ready(function(){
     heading.append("<th>Argos version</th>");
     argospmIndexTable.append(heading);
     $.ajax({url: packageIndex,
+	contentType: "";
 	success: function(response) {
             var data = $.parseJSON(response);
 	    $.each(data, function(i, packageData) {
