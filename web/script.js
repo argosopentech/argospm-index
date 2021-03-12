@@ -11,9 +11,9 @@ $(document).ready(function(){
     heading.append("<th>Package version</th>");
     heading.append("<th>Argos version</th>");
     argospmIndexTable.append(heading);
-    $.getJSON(
-	packageIndex,
-	function(data) {
+    $.ajax({url: packageIndex,
+	success: function(response) {
+            var data = $.parseJSON(response);
 	    $.each(data, function(i, packageData) {
 		var tr = $("<tr>");
 		var fromName = $("<td/>").append(packageData.from_name);
@@ -33,5 +33,6 @@ $(document).ready(function(){
 		tr.append(argosVersion);
 		argospmIndexTable.append(tr);
 	    });
-	});
+	}
+    });
 });
