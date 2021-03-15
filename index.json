@@ -178,5 +178,41 @@
         "to_code": "en",
         "to_name": "English",
 	"links": ["https://storage.googleapis.com/argospm/translate-hi_en-1.1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ga",
+        "to_name": "Irish",
+	"links": ["https://storage.googleapis.com/argospm/translate-en_ga-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ga",
+        "from_name": "Irish",
+        "to_code": "en",
+        "to_name": "English",
+	"links": ["https://storage.googleapis.com/argospm/translate-ga_en-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ko",
+        "to_name": "Korean",
+	"links": ["https://storage.googleapis.com/argospm/translate-en_ko-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ko",
+        "from_name": "Korean",
+        "to_code": "en",
+        "to_name": "English",
+	"links": ["https://storage.googleapis.com/argospm/translate-ko_en-1_1.argosmodel"]
     }
 ]
