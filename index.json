@@ -87,7 +87,7 @@
         "from_name": "English",
         "to_code": "zh",
         "to_name": "Chinese",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel"]
+	"links": ["https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel", "ifps://QmcHqXebmHEwpppeyDoMecchG38jgmGMwhMDzsAbiZWH4v"]
     },
     {
         "package_version": "1.0",
@@ -141,7 +141,7 @@
         "from_name": "Chinese",
         "to_code": "en",
         "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel"]
+	"links": ["https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel", "ipfs://QmSDRRbcDWjL5ZRsNYhHmtTAMmRVsKgSEKxUuju5ytLT4e"]
     },
     {
         "package_version": "1.1",
