@@ -214,5 +214,23 @@
         "to_code": "en",
         "to_name": "English",
 	"links": ["https://storage.googleapis.com/argospm/translate-ko_en-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "tr",
+        "to_name": "Turkish",
+	"links": ["https://storage.googleapis.com/argospm/translate-en_tr-1_1.argosmodel"]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "tr",
+        "from_name": "Turkish",
+        "to_code": "en",
+        "to_name": "English",
+	"links": ["https://storage.googleapis.com/argospm/translate-tr_en-1_1.argosmodel"]
     }
 ]
