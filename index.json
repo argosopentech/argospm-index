@@ -78,7 +78,7 @@
         "from_name": "English",
         "to_code": "ru",
         "to_name": "Russian",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel"]
+	"links": ["https://storage.googleapis.com/argospm/translate-en_ru-1_1.argosmodel"]
     },
     {
         "package_version": "1.1",
