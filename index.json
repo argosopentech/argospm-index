@@ -6,133 +6,9 @@
         "from_name": "Arabic",
         "to_code": "en",
         "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ar_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "de",
-        "from_name": "German",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/de_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "ar",
-        "to_name": "Arabic",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "de",
-        "to_name": "German",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_de.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "es",
-        "to_name": "Spanish",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_es.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "fr",
-        "to_name": "French",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_fr.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "it",
-        "to_name": "Italian",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_it.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "pt",
-        "to_name": "Portuguese",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_pt.argosmodel"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "ru",
-        "to_name": "Russian",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_ru-1_1.argosmodel"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "zh",
-        "to_name": "Chinese",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel", "ifps://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "es",
-        "from_name": "Spanish",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/es_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "fr",
-        "from_name": "French",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/fr_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "it",
-        "from_name": "Italian",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/it_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "pt",
-        "from_name": "Portuguese",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/pt_en.argosmodel"]
-    },
-    {
-        "package_version": "1.0",
-        "argos_version": "1.0",
-        "from_code": "ru",
-        "from_name": "Russian",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel"]
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ar_en.argosmodel"
+        ]
     },
     {
         "package_version": "1.1",
@@ -141,25 +17,55 @@
         "from_name": "Chinese",
         "to_code": "en",
         "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel", "ipfs://QmSDRRbcDWjL5ZRsNYhHmtTAMmRVsKgSEKxUuju5ytLT4e"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-zh_en-1_1.argosmodel",
+            "ipfs://QmSDRRbcDWjL5ZRsNYhHmtTAMmRVsKgSEKxUuju5ytLT4e"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ar",
+        "to_name": "Arabic",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel"
+        ]
     },
     {
         "package_version": "1.1",
         "argos_version": "1.1",
         "from_code": "en",
         "from_name": "English",
-        "to_code": "ja",
-        "to_name": "Japanese",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_ja-1_1.argosmodel", "ipfs://QmQjHs8ZhCU6WTV9RRHQMXgy4cDwyjvLUZ4bBp6J9GMCRb"]
+        "to_code": "zh",
+        "to_name": "Chinese",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_zh-1_1.argosmodel",
+            "ifps://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
+        ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "ja",
-        "from_name": "Japanese",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-ja_en-1_1.argosmodel", "ipfs://QmQDt5mgKgi6vBieC3uHWxZ41XB4JxtEG891os9UFUuzNU"]
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "fr",
+        "to_name": "French",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_fr.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "de",
+        "to_name": "German",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_de.argosmodel"
+        ]
     },
     {
         "package_version": "1.1",
@@ -168,16 +74,10 @@
         "from_name": "English",
         "to_code": "hi",
         "to_name": "Hindi",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_hi-1_1.argosmodel", "ipfs://QmUwZ5mSRLycPPw6CRqVVqXBMrtEN8Az9UiXH7eTuzMh8n"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "hi",
-        "from_name": "Hindi",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-hi_en-1.1.argosmodel", "ipfs://QmQrvsyhYywaqgi2yXjPPoRAbudQS7LPEjBkrPJQrdDt1H"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_hi-1_1.argosmodel",
+            "ipfs://QmUwZ5mSRLycPPw6CRqVVqXBMrtEN8Az9UiXH7eTuzMh8n"
+        ]
     },
     {
         "package_version": "1.1",
@@ -186,16 +86,33 @@
         "from_name": "English",
         "to_code": "ga",
         "to_name": "Irish",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_ga-1_1.argosmodel", "ipfs://Qmb35iKrxS3pJPeTk3xYJuLEDfDXRBehbFNvDiRMnjQGJj"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_ga-1_1.argosmodel",
+            "ipfs://Qmb35iKrxS3pJPeTk3xYJuLEDfDXRBehbFNvDiRMnjQGJj"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "it",
+        "to_name": "Italian",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_it.argosmodel"
+        ]
     },
     {
         "package_version": "1.1",
         "argos_version": "1.1",
-        "from_code": "ga",
-        "from_name": "Irish",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-ga_en-1_1.argosmodel", "ipfs://Qmbf88HufkqDk6UhYeWA5uoe7eSgp8ZYRkQqrbXJonyAdY"]
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ja",
+        "to_name": "Japanese",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_ja-1_1.argosmodel",
+            "ipfs://QmQjHs8ZhCU6WTV9RRHQMXgy4cDwyjvLUZ4bBp6J9GMCRb"
+        ]
     },
     {
         "package_version": "1.1",
@@ -204,34 +121,10 @@
         "from_name": "English",
         "to_code": "ko",
         "to_name": "Korean",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_ko-1_1.argosmodel", "ipfs://QmWecr5i4tJNnokusm97rTUyQtUqNNPufGF7ake1hJVu6G"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "ko",
-        "from_name": "Korean",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-ko_en-1_1.argosmodel", "ipfs://QmagkMMHshubVk8XT3sXow5Y9vzBoz3rbN2HAAGL9vQsKY"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "tr",
-        "to_name": "Turkish",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_tr-1_1.argosmodel", "ipfs://QmUUTSFEKjxFj3V7h3ttAsu548kQoTeXcjGsuwGbZexkab"]
-    },
-    {
-        "package_version": "1.1",
-        "argos_version": "1.1",
-        "from_code": "tr",
-        "from_name": "Turkish",
-        "to_code": "en",
-        "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-tr_en-1_1.argosmodel", "ipfs://QmcMrkJkKKQ5wP8ua64B7r9cyYho7qdRvGacbaGfNFpaL5"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_ko-1_1.argosmodel",
+            "ipfs://QmWecr5i4tJNnokusm97rTUyQtUqNNPufGF7ake1hJVu6G"
+        ]
     },
     {
         "package_version": "1.1",
@@ -240,7 +133,136 @@
         "from_name": "English",
         "to_code": "pl",
         "to_name": "Polish",
-	"links": ["https://storage.googleapis.com/argospm/translate-en_pl-1_1.argosmodel", "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_pl-1_1.argosmodel",
+            "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "pt",
+        "to_name": "Portuguese",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_pt.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ru",
+        "to_name": "Russian",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_ru-1_1.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "es",
+        "to_name": "Spanish",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_es.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "tr",
+        "to_name": "Turkish",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_tr-1_1.argosmodel",
+            "ipfs://QmUUTSFEKjxFj3V7h3ttAsu548kQoTeXcjGsuwGbZexkab"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "fr",
+        "from_name": "French",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/fr_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "de",
+        "from_name": "German",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/de_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "hi",
+        "from_name": "Hindi",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-hi_en-1.1.argosmodel",
+            "ipfs://QmQrvsyhYywaqgi2yXjPPoRAbudQS7LPEjBkrPJQrdDt1H"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ga",
+        "from_name": "Irish",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-ga_en-1_1.argosmodel",
+            "ipfs://Qmbf88HufkqDk6UhYeWA5uoe7eSgp8ZYRkQqrbXJonyAdY"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "it",
+        "from_name": "Italian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/it_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ja",
+        "from_name": "Japanese",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-ja_en-1_1.argosmodel",
+            "ipfs://QmQDt5mgKgi6vBieC3uHWxZ41XB4JxtEG891os9UFUuzNU"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "ko",
+        "from_name": "Korean",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-ko_en-1_1.argosmodel",
+            "ipfs://QmagkMMHshubVk8XT3sXow5Y9vzBoz3rbN2HAAGL9vQsKY"
+        ]
     },
     {
         "package_version": "1.1",
@@ -249,6 +271,54 @@
         "from_name": "Polish",
         "to_code": "en",
         "to_name": "English",
-	"links": ["https://storage.googleapis.com/argospm/translate-pl_en-1_1.argosmodel", "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"]
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-pl_en-1_1.argosmodel",
+            "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "pt",
+        "from_name": "Portuguese",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/pt_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "ru",
+        "from_name": "Russian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "es",
+        "from_name": "Spanish",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/es_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.1",
+        "argos_version": "1.1",
+        "from_code": "tr",
+        "from_name": "Turkish",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-tr_en-1_1.argosmodel",
+            "ipfs://QmcMrkJkKKQ5wP8ua64B7r9cyYho7qdRvGacbaGfNFpaL5"
+        ]
     }
 ]
