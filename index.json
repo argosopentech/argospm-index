@@ -184,6 +184,18 @@
         ]
     },
     {
+        "package_version": "1.2",
+        "argos_version": "1.2",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "vi",
+        "to_name": "Vietnamese",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-en_vi-1_2.argosmodel",
+            "ipfs://Qmf4vN67LL3xpDZSGgNDMsindzvYhi5tx5eKLyNMD2ubd2"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "fr",
@@ -319,6 +331,18 @@
         "links": [
             "https://storage.googleapis.com/argospm/translate-tr_en-1_1.argosmodel",
             "ipfs://QmcMrkJkKKQ5wP8ua64B7r9cyYho7qdRvGacbaGfNFpaL5"
+        ]
+    },
+    {
+        "package_version": "1.2",
+        "argos_version": "1.2",
+        "from_code": "vi",
+        "from_name": "Vietnamese",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://storage.googleapis.com/argospm/translate-vi_en-1_2.argosmodel",
+            "ipfs://QmZeGUMuEg8qheWeci3dFx9EQSZ3ntn9THCZ1qsDt9Nkfp"
         ]
     }
 ]
