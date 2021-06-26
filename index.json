@@ -99,7 +99,7 @@
         "to_code": "ga",
         "to_name": "Irish",
         "links": [
-            "https://storage.googleapis.com/argospm/translate-en_ga-1_1.argosmodel",
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ga-1_1.argosmodel",
             "ipfs://Qmb35iKrxS3pJPeTk3xYJuLEDfDXRBehbFNvDiRMnjQGJj"
         ]
     },
