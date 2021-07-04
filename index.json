@@ -175,7 +175,8 @@
         "to_code": "ru",
         "to_name": "Russian",
         "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ru-1_1.argosmodel"
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ru-1_1.argosmodel",
+            "ipfs://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
         ]
     },
     {
