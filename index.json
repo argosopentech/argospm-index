@@ -7,7 +7,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ar_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ar_en.argosmodel",
+            "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
         ]
     },
     {
@@ -30,7 +31,8 @@
         "to_code": "ar",
         "to_name": "Arabic",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel",
+            "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
         ]
     },
     {
@@ -53,7 +55,8 @@
         "to_code": "fr",
         "to_name": "French",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_fr.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_fr.argosmodel",
+            "ipfs://QmTFDhZVeqDqXQk6DDt6wp9xA4L4yed7zup122Hh8cQtkk"
         ]
     },
     {
@@ -64,7 +67,8 @@
         "to_code": "de",
         "to_name": "German",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_de.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_de.argosmodel",
+            "ipfs://QmfVPk8rZmHwfxMzpnFKZ73CkNbPGzQDDq8wGEvPtcDoyW"
         ]
     },
     {
@@ -111,7 +115,8 @@
         "to_code": "it",
         "to_name": "Italian",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_it.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_it.argosmodel",
+            "ipfs://QmT5LnsNZEf3JKYMoYWvo9aNMwKUyLLUpshCA7hZLQRST4"
         ]
     },
     {
@@ -158,7 +163,8 @@
         "to_code": "pt",
         "to_name": "Portuguese",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_pt.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_pt.argosmodel",
+            "ifps://Qmb6Net4NwQeYf6Q9uCzT1QbA3TZcD7hwXmP89yjVBt6yh"
         ]
     },
     {
@@ -180,7 +186,8 @@
         "to_code": "es",
         "to_name": "Spanish",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_es.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_es.argosmodel",
+            "ipfs://QmTej992FdB95GyaYjmcZPoxyEqctCvc7mizUeLgyT6dcb"
         ]
     },
     {
@@ -215,7 +222,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/fr_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/fr_en.argosmodel",
+            "ipfs://QmRVE85p59QDGZg2CMec3yAt9FwxbZAotjh34XKrzGGVEH"
         ]
     },
     {
@@ -226,7 +234,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/de_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/de_en.argosmodel",
+            "ipfs://QmPRsSinizA4MPNVi4TZrWkhgAKgX4kEKwZ2jkHeghx1Dr"
         ]
     },
     {
@@ -273,7 +282,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/it_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/it_en.argosmodel",
+            "ipfs://QmbFjMY6j6u4g4gfqFpATSRrwD3VB3ci2ujnGgHijQGEHG"
         ]
     },
     {
@@ -320,7 +330,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/pt_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/pt_en.argosmodel",
+            "ipfs://QmeTuK7ydLqz2UmBHSoxopVQg9rztnLGkNuRDw2MH5gYfL"
         ]
     },
     {
@@ -331,7 +342,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/ru_en.argosmodel",
+            "ipfs://QmTEfEov1eifNp2BkieaYzSaaKnL4L5UfG12SuS9n5XzJb"
         ]
     },
     {
@@ -342,7 +354,8 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/es_en.argosmodel"
+            "https://github.com/uav4geo/LibreTranslate-Models/raw/3d5ca0a2c3c302287339b2944329f767ac1673f4/es_en.argosmodel",
+            "ipfs://Qmcs4RKWoYh9bhkv4fWovnnJ2eQfox52GioYtjyPP3vYSB"
         ]
     },
     {
