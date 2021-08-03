@@ -204,6 +204,18 @@
         ]
     },
     {
+        "package_version": "1.4",
+        "argos_version": "1.4",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "uk",
+        "to_name": "Ukranian",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_uk-1_4.argosmodel",
+            "ipfs://QmbXofcXVEPX4kY8WcqHt7WzGACudXKf7VXYsFjDBy1wTs"
+        ]
+    },
+    {
         "package_version": "1.2",
         "argos_version": "1.2",
         "from_code": "en",
@@ -369,6 +381,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-tr_en-1_1.argosmodel",
             "ipfs://QmcMrkJkKKQ5wP8ua64B7r9cyYho7qdRvGacbaGfNFpaL5"
+        ]
+    },
+    {
+        "package_version": "1.4",
+        "argos_version": "1.4",
+        "from_code": "uk",
+        "from_name": "Ukranian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-uk_en-1_4.argosmodel",
+            "ipfs://QmX4DNcxd1E6uVnD6qyZ1TwVq7569VkJbP6G3kxownM2qx"
         ]
     },
     {
