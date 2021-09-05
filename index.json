@@ -108,6 +108,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "hu",
+        "to_name": "Hungarian",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_hu-1_5.argosmodel",
+            "ipfs://QmZQTGaxRviadGfvixsSjKuhFpD13hjUMN2D3wAKrcctmK"
+        ]
+    },
+    {
         "package_version": "1.2",
         "argos_version": "1.2",
         "from_code": "en",
@@ -283,8 +295,20 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-hi_en-1.1.argosmodel",
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-hi_en-1_1.argosmodel",
             "ipfs://QmQrvsyhYywaqgi2yXjPPoRAbudQS7LPEjBkrPJQrdDt1H"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "hu",
+        "from_name": "Hungarian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-hu_en-1_5.argosmodel",
+            "ipfs://QmfEXxSieewThZ45jvSQXJUJaow6vZmVgyVbhNyXPbwXHr"
         ]
     },
     {
