@@ -240,6 +240,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "sv",
+        "to_name": "Swedish",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_sv-1_5.argosmodel",
+            "ipfs://QmXjLByK6hv3BQmPz1XMAEPLJEBmofYc7uN8AdDobQADZD"
+        ]
+    },
+    {
         "package_version": "1.1",
         "argos_version": "1.1",
         "from_code": "en",
@@ -441,6 +453,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-es_en-1_0.argosmodel",
             "ipfs://Qmcs4RKWoYh9bhkv4fWovnnJ2eQfox52GioYtjyPP3vYSB"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "sv",
+        "from_name": "Swedish",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-es_sv-1_5.argosmodel",
+            "ipfs://QmTusbmKWwVGRkMABcBFNrNrYoAwTzvuUEaqLhzYr5yH36"
         ]
     },
     {
