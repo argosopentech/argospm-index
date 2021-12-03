@@ -12,6 +12,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "az",
+        "from_name": "Azerbaijani",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-az_en-1_5.argosmodel",
+            "ipfs://QmeikEbAZf6BdJC1GQnKJb6X6XtgkXrLUBw7EntinxpEbz"
+        ]
+    },
+    {
         "package_version": "1.1",
         "argos_version": "1.1",
         "from_code": "zh",
@@ -45,6 +57,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ar-1_0.argosmodel",
             "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ar",
+        "to_name": "Azerbaijani",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_az-1_5.argosmodel",
+            "ipfs://QmNn1rBjRvGjTycGnKq7PoMrro4BvyTHT7nXu3sgqbo1RH"
         ]
     },
     {
