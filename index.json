@@ -36,6 +36,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "cs",
+        "from_name": "Czech",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-cs_en-1_5.argosmodel",
+            "ipfs://QmYbkvGdUorGh4RLXwAqAn37nNbdbBqrG7sp9mjy5dw14S"
+        ]
+    },
+    {
         "package_version": "1.4",
         "argos_version": "1.4",
         "from_code": "nl",
@@ -81,6 +93,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_zh-1_1.argosmodel",
             "ifps://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "zh",
+        "to_name": "Czech",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_cs-1_5.argosmodel",
+            "ifps://QmdPm57RT9LsSx97kudGNK6Tvaq5JuVReZfDUGRvdKSKAP"
         ]
     },
     {
