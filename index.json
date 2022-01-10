@@ -76,7 +76,7 @@
         "argos_version": "1.5",
         "from_code": "en",
         "from_name": "English",
-        "to_code": "ar",
+        "to_code": "az",
         "to_name": "Azerbaijani",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_az-1_5.argosmodel",
