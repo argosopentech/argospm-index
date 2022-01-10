@@ -100,7 +100,7 @@
         "argos_version": "1.5",
         "from_code": "en",
         "from_name": "English",
-        "to_code": "zh",
+        "to_code": "cs",
         "to_name": "Czech",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_cs-1_5.argosmodel",
