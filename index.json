@@ -264,6 +264,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "fa",
+        "to_name": "Persian",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_fa-1_5.argosmodel",
+            "ipfs://QmZ33DueKF3oy3jqaJGayimXDZ5osbHAVmh4C7P9MdEW69"
+        ]
+    },
+    {
         "package_version": "1.1",
         "argos_version": "1.1",
         "from_code": "en",
@@ -501,6 +513,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-ko_en-1_1.argosmodel",
             "ipfs://QmagkMMHshubVk8XT3sXow5Y9vzBoz3rbN2HAAGL9vQsKY"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "fa",
+        "from_name": "Persian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-fa_en-1_5.argosmodel",
+            "ipfs://Qma9SnzpwFPfja6Us9cE8SabSxYK9CH6LzAowq2LVVXXfs"
         ]
     },
     {
