@@ -312,6 +312,18 @@
         ]
     },
     {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "sk",
+        "to_name": "Slovak",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_sk-1_5.argosmodel",
+            "ipfs://QmdnA8chM6qnnsZKW7wJEcXumSq6LMsQbq2W2F7RX8tdc1"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "en",
@@ -561,6 +573,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-ru_en-1_0.argosmodel",
             "ipfs://QmTEfEov1eifNp2BkieaYzSaaKnL4L5UfG12SuS9n5XzJb"
+        ]
+    },
+    {
+        "package_version": "1.5",
+        "argos_version": "1.5",
+        "from_code": "sk",
+        "from_name": "Slovak",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-sk_en-1_5.argosmodel",
+            "ipfs://QmVdjFr4jLj4KAGykML4anJsbL61dLtuHnzDF52UEDHRij"
         ]
     },
     {
