@@ -19,6 +19,7 @@
         "to_code": "en",
         "to_name": "English",
         "links": [
+            "https://cdn.argosopentech.io/translate-az_en-1_5.argosmodel",
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-az_en-1_5.argosmodel",
             "ipfs://QmeikEbAZf6BdJC1GQnKJb6X6XtgkXrLUBw7EntinxpEbz"
         ]
