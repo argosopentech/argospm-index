@@ -49,19 +49,6 @@
         ]
     },
     {
-        "package_version": "1.4",
-        "argos_version": "1.4",
-        "from_code": "nl",
-        "from_name": "Dutch",
-        "to_code": "en",
-        "to_name": "English",
-        "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-nl_en-1_4.argosmodel",
-            "ipfs://Qmd343XFXGJDpsWQ2G1s4v1hjbzJwUHnm8y3qEVNht6FSk"
-        ]
-    },
-    
-    {
         "package_version": "1.3",
         "argos_version": "1.5",
         "from_code": "da",
@@ -71,6 +58,18 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-da_en-1_3.argosmodel",
             "ipfs://QmQHNmJRqi8n85kbJgFdd61vX74FL5DeQB51WYzBzd98zH"
+        ]
+    },
+    {
+        "package_version": "1.4",
+        "argos_version": "1.4",
+        "from_code": "nl",
+        "from_name": "Dutch",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-nl_en-1_4.argosmodel",
+            "ipfs://Qmd343XFXGJDpsWQ2G1s4v1hjbzJwUHnm8y3qEVNht6FSk"
         ]
     },
     {
