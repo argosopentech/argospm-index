@@ -42,7 +42,7 @@ $(document).ready(function(){
     heading.append("<th>To code</th>");
     heading.append("<th>Package version</th>");
     heading.append("<th>Argos version</th>");
-    heading.append("<th>IPFS</th>");
+    heading.append("<th>ipfs</th>");
     argospmIndexTable.append(heading);
     $.ajax({url: packageIndex,
 	contentType: "",
@@ -55,7 +55,7 @@ $(document).ready(function(){
 		var toName = $("<td/>").append(packageData.to_name);
 		tr.append(toName);
 		var linkTd = $("<td/>");
-		var link = $("<a/>").append("https");
+		var link = $("<a/>").append("get");
 		link.attr("href", packageData.links[0]);
 		linkTd.append(link);
 		tr.append(linkTd);
@@ -68,10 +68,20 @@ $(document).ready(function(){
 		var argosVersion = $("<td/>").append(packageData.argos_version);
 		tr.append(argosVersion);
 		var ipfsLinkTd = $("<td/>");
-		if (packageData.links.length > 1){
-			var link = $("<a/>").append("IPFS");
-			link.attr("href", packageData.links[1]);
-			ipfsLinkTd.append(link);
+		for(var i = 0; i < packageData.links.length; i++){
+			link = packageData.links[i]
+			var protocolEndIndex = link.indexOf(":");
+			if(protocolEndIndex < 1){
+				continue;
+			}
+			var protocol = link.substring(0, protocolEndIndex);
+			if (protocol === "ipfs"){
+				var linkA = $("<a/>").append("ipfs");
+				linkA.attr("href", link);
+				ipfsLinkTd.append(linkA);
+				break;
+			}
+			
 		}
 		tr.append(ipfsLinkTd);
 
@@ -80,3 +90,4 @@ $(document).ready(function(){
 	}
     });
 });
+
