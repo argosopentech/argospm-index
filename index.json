@@ -57,6 +57,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-da_en-1_3.argosmodel",
+            "https://libretranslate.fortytwo-it.com/argosmodels/translate-da_en-1_3.argosmodel",
             "ipfs://QmQHNmJRqi8n85kbJgFdd61vX74FL5DeQB51WYzBzd98zH"
         ]
     },
@@ -129,6 +130,7 @@
         "to_name": "Danish",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_da-1_3.argosmodel",
+            "https://libretranslate.fortytwo-it.com/argosmodels/translate-en_da-1_3.argosmodel",
             "ifps://QmRmYhBKr4FMgZ2fSYrf8ZRpjdyLRdattzm6tbj5z2wN8X"
         ]
     },
