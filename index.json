@@ -33,6 +33,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-zh_en-1_1.argosmodel",
+            "https://cdn.argosopentech.io/translate-zh_en-1_1.argosmodel",
             "ipfs://QmSDRRbcDWjL5ZRsNYhHmtTAMmRVsKgSEKxUuju5ytLT4e"
         ]
     },
@@ -45,6 +46,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-cs_en-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-zh_en-1_1.argosmodel",
             "ipfs://QmYbkvGdUorGh4RLXwAqAn37nNbdbBqrG7sp9mjy5dw14S"
         ]
     },
@@ -57,6 +59,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-da_en-1_3.argosmodel",
+            "https://cdn.argosopentech.io/translate-zh_en-1_1.argosmodel",
             "https://libretranslate.fortytwo-it.com/argosmodels/translate-da_en-1_3.argosmodel",
             "ipfs://QmQHNmJRqi8n85kbJgFdd61vX74FL5DeQB51WYzBzd98zH"
         ]
@@ -70,6 +73,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-nl_en-1_4.argosmodel",
+            "https://cdn.argosopentech.io/translate-zh_en-1_1.argosmodel",
             "ipfs://Qmd343XFXGJDpsWQ2G1s4v1hjbzJwUHnm8y3qEVNht6FSk"
         ]
     },
@@ -82,6 +86,7 @@
         "to_name": "Arabic",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ar-1_0.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_ar-1_0.argosmodel",
             "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
         ]
     },
@@ -94,6 +99,7 @@
         "to_name": "Azerbaijani",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_az-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_az-1_5.argosmodel",
             "ipfs://QmNn1rBjRvGjTycGnKq7PoMrro4BvyTHT7nXu3sgqbo1RH"
         ]
     },
@@ -106,6 +112,7 @@
         "to_name": "Chinese",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_zh-1_1.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_zh-1_1.argosmodel",
             "ifps://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
         ]
     },
@@ -118,6 +125,7 @@
         "to_name": "Czech",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_cs-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_cs-1_5.argosmodel",
             "ifps://QmdPm57RT9LsSx97kudGNK6Tvaq5JuVReZfDUGRvdKSKAP"
         ]
     },
