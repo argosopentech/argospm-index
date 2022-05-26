@@ -8,6 +8,7 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-ar_en-1_0.argosmodel",
+            "https://cdn.argosopentech.io/translate-ar_en-1_0.argosmodel",
             "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
         ]
     },
@@ -138,6 +139,7 @@
         "to_name": "Danish",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_da-1_3.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_da-1_3.argosmodel",
             "https://libretranslate.fortytwo-it.com/argosmodels/translate-en_da-1_3.argosmodel",
             "ifps://QmRmYhBKr4FMgZ2fSYrf8ZRpjdyLRdattzm6tbj5z2wN8X"
         ]
@@ -151,6 +153,7 @@
         "to_name": "Dutch",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_nl-1_4.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_nl-1_4.argosmodel",
             "ifps://QmQtHHpnxVSAKRGgdEbHisNMSCeJN8Dv7DwqwzYTcnXM3s"
         ]
     },
@@ -163,6 +166,7 @@
         "to_name": "Esperanto",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_eo-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_eo-1_5.argosmodel",
             "ipfs://QmQmaqSiFS86qdf3ignt3moiNodEG2EKBjBNfMsJ1CBc8p"
         ]
     },
@@ -175,6 +179,7 @@
         "to_name": "Finnish",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_fi-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_fi-1_5.argosmodel",
             "ifps://QmRDSD2FXE8Nxf9UEuRcNAzQ4azEWiGAHgZv3jWvXau6Y5"
         ]
     },
@@ -187,6 +192,7 @@
         "to_name": "French",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_fr-1_0.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_fr-1_0.argosmodel",
             "ipfs://QmTFDhZVeqDqXQk6DDt6wp9xA4L4yed7zup122Hh8cQtkk"
         ]
     },
@@ -199,6 +205,7 @@
         "to_name": "German",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_de-1_0.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_de-1_0.argosmodel",
             "ipfs://QmfVPk8rZmHwfxMzpnFKZ73CkNbPGzQDDq8wGEvPtcDoyW"
         ]
     },
@@ -211,6 +218,7 @@
         "to_name": "Greek",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_el-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_el-1_5.argosmodel",
             "ipfs://QmRSbxeaCDaRnYAMoPu26ZPZKHqSDsjrtrL6FKG3o8Uq9T"
         ]
     },
@@ -223,6 +231,7 @@
         "to_name": "Hebrew",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_he-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_he-1_5.argosmodel",
             "ipfs://QmfQoJwfdZJ6ZApHWDGZjNG6EHjtgjEsiQrR1nvk5MCcpx"
         ]
     },
@@ -235,6 +244,7 @@
         "to_name": "Hindi",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_hi-1_1.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_hi-1_1.argosmodel",
             "ipfs://QmUwZ5mSRLycPPw6CRqVVqXBMrtEN8Az9UiXH7eTuzMh8n"
         ]
     },
@@ -247,6 +257,7 @@
         "to_name": "Hungarian",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_hu-1_5.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_hu-1_5.argosmodel",
             "ipfs://QmZQTGaxRviadGfvixsSjKuhFpD13hjUMN2D3wAKrcctmK"
         ]
     },
@@ -259,6 +270,7 @@
         "to_name": "Indonesian",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_id-1_2.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_id-1_2.argosmodel"",
             "ipfs://QmRgVwNeuX8wBtwih8Ef1R6Frg8jQv8tVTBJf3rfH2PGn5"
         ]
     },
