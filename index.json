@@ -9,6 +9,7 @@
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-ar_en-1_0.argosmodel",
             "https://cdn.argosopentech.io/translate-ar_en-1_0.argosmodel",
+            "https://cdn2.argosopentech.io/translate-ar_en-1_0.argosmodel",
             "ipfs://QmV5bmf8iqKpoGoyuTzEppaSWdceuW6zgiePaUr5ThPCpW"
         ]
     },
