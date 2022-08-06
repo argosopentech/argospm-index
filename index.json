@@ -476,20 +476,6 @@
         ]
     },
     {
-        "package_version": "1.2",
-        "argos_version": "1.2",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "vi",
-        "to_name": "Vietnamese",
-        "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_vi-1_2.argosmodel",
-            "https://cdn.argosopentech.io/translate-en_vi-1_2.argosmodel",
-            "https://cdn2.argosopentech.io/translate-en_vi-1_2.argosmodel",
-            "ipfs://Qmf4vN67LL3xpDZSGgNDMsindzvYhi5tx5eKLyNMD2ubd2"
-        ]
-    },
-    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "eo",
@@ -795,20 +781,6 @@
             "https://cdn.argosopentech.io/translate-uk_en-1_4.argosmodel",
             "https://cdn2.argosopentech.io/translate-uk_en-1_4.argosmodel",
             "ipfs://QmX4DNcxd1E6uVnD6qyZ1TwVq7569VkJbP6G3kxownM2qx"
-        ]
-    },
-    {
-        "package_version": "1.2",
-        "argos_version": "1.2",
-        "from_code": "vi",
-        "from_name": "Vietnamese",
-        "to_code": "en",
-        "to_name": "English",
-        "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-vi_en-1_2.argosmodel",
-            "https://cdn.argosopentech.io/translate-vi_en-1_2.argosmodel",
-            "https://cdn2.argosopentech.io/translate-vi_en-1_2.argosmodel",
-            "ipfs://QmZeGUMuEg8qheWeci3dFx9EQSZ3ntn9THCZ1qsDt9Nkfp"
         ]
     }
 ]
