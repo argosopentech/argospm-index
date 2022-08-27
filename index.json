@@ -64,6 +64,8 @@
         "to_name": "English",
         "links": [
             "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-da_en-1_3.argosmodel",
+            "https://cdn.argosopentech.io/translate-da_en-1_3.argosmodel",
+            "https://cdn2.argosopentech.io/translate-da_en-1_3.argosmodel",
             "https://libretranslate.fortytwo-it.com/argosmodels/translate-da_en-1_3.argosmodel",
             "ipfs://QmQHNmJRqi8n85kbJgFdd61vX74FL5DeQB51WYzBzd98zH"
         ]
