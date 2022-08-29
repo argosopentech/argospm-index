@@ -394,17 +394,17 @@
         ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.7",
+        "argos_version": "1.7",
         "from_code": "en",
         "from_name": "English",
         "to_code": "ru",
         "to_name": "Russian",
         "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ru-1_1.argosmodel",
-            "https://cdn.argosopentech.io/translate-en_ru-1_1.argosmodel",
-            "https://cdn2.argosopentech.io/translate-en_ru-1_1.argosmodel",
-            "ipfs://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_ru-1_7.argosmodel",
+            "https://cdn.argosopentech.io/translate-en_ru-1_7.argosmodel",
+            "https://cdn2.argosopentech.io/translate-en_ru-1_7.argosmodel",
+            "ipfs://QmW847X6RjmiwRLCQKbubtz1DGJgrVCNJ97crNQNZFGe7K"
         ]
     },
     {
