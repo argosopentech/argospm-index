@@ -1,7 +1,17 @@
 [
     {
-        "code": "m2m-100",
-        "name": "M2M-100",
+        "code": "chunk",
+        "name": "Chunk",
+        "type": "translate",
+        "from_code": "auto",
+        "to_code": "chunk",
+        "package_version": "2.0",
+        "argos_version": "2.0",
+        "links": []
+    },
+    {
+        "code": "msm-100",
+        "name": "MSM-100",
         "type": "translate",
         "languages": [
             {
@@ -11,11 +21,23 @@
             {
                 "code": "es",
                 "name": "Spanish"
+            },
+            {
+                "code": "de",
+                "name": "German"
             }
         ],
         "package_version": "2.0",
         "argos_version": "2.0",
+        "dependencies": [
+            "chunk"
+        ],
         "links": []
+    },
+    {
+        "code": "translate",
+        "dependencies": [
+            "msm-100"
+        ]
     }
 ]
-
