@@ -3,8 +3,16 @@
         "code": "chunk",
         "name": "Chunk",
         "type": "translate",
-        "from_code": "auto",
-        "to_code": "chunk",
+        "source_languages": [
+            {
+                "code": "auto"
+            }
+        ],
+        "target_languages": [
+            {
+                "code": "chunk"
+            }
+        ],
         "package_version": "2.0",
         "argos_version": "2.0",
         "links": []
