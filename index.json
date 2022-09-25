@@ -18,8 +18,8 @@
         "links": []
     },
     {
-        "code": "translate-msm-100",
-        "name": "MSM-100",
+        "code": "translate-m2m-100-418m",
+        "name": "M2M-100 418M",
         "type": "translate",
         "languages": [
             {
@@ -43,9 +43,18 @@
         "links": []
     },
     {
+        "code": "translate-m2m-100",
+        "name": "M2M-100",
+        "dependencies": [
+            "translate-m2m-100-418m"
+        ],
+        "package_version": "2.0",
+        "argos_version": "2.0"
+    },
+    {
         "code": "translate",
         "dependencies": [
-            "msm-100"
+            "m2m-100"
         ]
     }
 ]
