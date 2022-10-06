@@ -2,7 +2,7 @@
     {
         "code": "chunk",
         "name": "Chunk",
-        "type": "translate",
+        "type": "chunk",
         "source_languages": [
             {
                 "code": "auto"
@@ -15,7 +15,9 @@
         ],
         "package_version": "2.0",
         "argos_version": "2.0",
-        "links": []
+        "links": [
+            "https://cdn.argosopentech.io/argospm/chunk-2_0.argosmodel"
+        ]
     },
     {
         "code": "translate-m2m-100-418m",
@@ -220,7 +222,9 @@
         "dependencies": [
             "chunk"
         ],
-        "links": []
+        "links": [
+            "https://cdn.argosopentech.io/argospm/translate-m2m-100-418m-2_0.argosmodel"
+        ]
     },
     {
         "code": "translate-m2m-100",
@@ -234,7 +238,7 @@
     {
         "code": "translate",
         "dependencies": [
-            "m2m-100"
+            "translate-m2m-100"
         ]
     }
 ]
