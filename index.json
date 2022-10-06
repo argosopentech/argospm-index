@@ -27,12 +27,192 @@
                 "name": "English"
             },
             {
-                "code": "es",
-                "name": "Spanish"
+                "code": "ar",
+                "name": "Arabic"
+            },
+            {
+                "code": "ca",
+                "name": "Catalan"
+            },
+            {
+                "code": "zh",
+                "name": "Chinese"
+            },
+            {
+                "code": "cs",
+                "name": "Czech"
+            },
+            {
+                "code": "da",
+                "name": "Danish"
+            },
+            {
+                "code": "fr",
+                "name": "French"
+            },
+            {
+                "code": "fi",
+                "name": "Finnish"
             },
             {
                 "code": "de",
                 "name": "German"
+            },
+            {
+                "code": "he",
+                "name": "Hebrew"
+            },
+            {
+                "code": "hi",
+                "name": "Hindi"
+            },
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            },
+            {
+                "code": "is",
+                "name": "Icelandic"
+            },
+            {
+                "code": "id",
+                "name": "Indonesian"
+            },
+            {
+                "code": "ga",
+                "name": "Irish"
+            },
+            {
+                "code": "it",
+                "name": "Italian"
+            },
+            {
+                "code": "it",
+                "name": "Italian"
+            },
+            {
+                "code": "it",
+                "name": "Italian"
+            },
+            {
+                "code": "it",
+                "name": "Italian"
+            },
+            {
+                "code": "it",
+                "name": "Italian"
+            },
+            {
+                "code": "ja",
+                "name": "Japanese"
+            },
+            {
+                "code": "ko",
+                "name": "Korean"
+            },
+            {
+                "code": "ku",
+                "name": "Kurdish"
+            },
+            {
+                "code": "la",
+                "name": "Latin"
+            },
+            {
+                "code": "lv",
+                "name": "Latvian"
+            },
+            {
+                "code": "mn",
+                "name": "Mongolian"
+            },
+            {
+                "code": "no",
+                "name": "Norwegian"
+            },
+            {
+                "code": "fa",
+                "name": "Persian"
+            },
+            {
+                "code": "pl",
+                "name": "Polish"
+            },
+            {
+                "code": "pt",
+                "name": "Portuguese"
+            },
+            {
+                "code": "ru",
+                "name": "Russian"
+            },
+            {
+                "code": "sr",
+                "name": "Serbian"
+            },
+            {
+                "code": "sk",
+                "name": "Slovak"
+            },
+            {
+                "code": "sl",
+                "name": "Slovenian"
+            },
+            {
+                "code": "es",
+                "name": "Spanish"
+            },
+            {
+                "code": "sw",
+                "name": "Swahili"
+            },
+            {
+                "code": "sv",
+                "name": "Swedish"
+            },
+            {
+                "code": "ta",
+                "name": "Tamil"
+            },
+            {
+                "code": "te",
+                "name": "Telgu"
+            },
+            {
+                "code": "th",
+                "name": "Thai"
+            },
+            {
+                "code": "bo",
+                "name": "Tibetan"
+            },
+            {
+                "code": "tr",
+                "name": "Turkish"
+            },
+            {
+                "code": "uk",
+                "name": "Ukrainian"
+            },
+            {
+                "code": "ur",
+                "name": "Urdu"
+            },
+            {
+                "code": "vi",
+                "name": "Vietnamese"
+            },
+            {
+                "code": "cy",
+                "name": "Welsh"
+            },
+            {
+                "code": "yi",
+                "name": "Yiddish"
+            },
+            {
+                "code": "zu",
+                "name": "Zulu"
             }
         ],
         "package_version": "2.0",
