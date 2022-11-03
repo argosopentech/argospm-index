@@ -28,17 +28,17 @@
         ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.7",
+        "argos_version": "1.7",
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-zh_en-1_1.argosmodel",
-            "https://cdn.argosopentech.io/translate-zh_en-1_1.argosmodel",
-            "https://cdn2.argosopentech.io/translate-zh_en-1_1.argosmodel",
-            "ipfs://QmSDRRbcDWjL5ZRsNYhHmtTAMmRVsKgSEKxUuju5ytLT4e"
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-zh_en-1_7.argosmodel",
+            "cdn.argosopentech.io/argospm/translate-zh_en-1_7.argosmodel",
+            "cdn2.argosopentech.io/argospm/translate-zh_en-1_7.argosmodel",
+            "ipfs://QmPPLt4wWwhKgFV9YNzWtkB2Ak9oGy1LuYhCrhSuixC2Rm"
         ]
     },
     {
@@ -113,17 +113,17 @@
         ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.7",
+        "argos_version": "1.7",
         "from_code": "en",
         "from_name": "English",
         "to_code": "zh",
         "to_name": "Chinese",
         "links": [
-            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_zh-1_1.argosmodel",
-            "https://cdn.argosopentech.io/translate-en_zh-1_1.argosmodel",
-            "https://cdn2.argosopentech.io/translate-en_zh-1_1.argosmodel",
-            "ifps://QmcxzJqZCjTYVmHyoMZdNsEyWaDuBo4VpLg8y8za7u466o"
+            "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-en_zh-1_7.argosmodel",
+            "https://cdn.argosopentech.io/argospm/translate-en_zh-1_7.argosmodel",
+            "https://cdn2.argosopentech.io/argospm/translate-en_zh-1_7.argosmodel",
+            "ifps://QmZ9QmyRdwsYebNS4HPnfXKUsaREisoRe1Vd8W63F4MDiR"
         ]
     },
     {
