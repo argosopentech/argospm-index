@@ -30,6 +30,18 @@
     {
         "package_version": "1.7",
         "argos_version": "1.7",
+        "from_code": "ca",
+        "from_name": "Catalan",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://cdn.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel",
+            "https://cdn2.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.7",
+        "argos_version": "1.7",
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
@@ -110,6 +122,18 @@
             "https://cdn.argosopentech.io/translate-en_az-1_5.argosmodel",
             "https://cdn2.argosopentech.io/translate-en_az-1_5.argosmodel",
             "ipfs://QmNn1rBjRvGjTycGnKq7PoMrro4BvyTHT7nXu3sgqbo1RH"
+        ]
+    },
+    {
+        "package_version": "1.7",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ca",
+        "to_name": "Catalan",
+        "links": [
+            "https://cdn.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel",
+            "https://cdn2.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel"
         ]
     },
     {
