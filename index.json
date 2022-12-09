@@ -132,8 +132,8 @@
         "to_code": "ca",
         "to_name": "Catalan",
         "links": [
-            "https://cdn.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel",
-            "https://cdn2.argosopentech.io/argospm/translate-ca_en-1_7.argosmodel"
+            "https://cdn.argosopentech.io/argospm/translate-en_ca-1_7.argosmodel",
+            "https://cdn2.argosopentech.io/argospm/translate-en_ca-1_7.argosmodel"
         ]
     },
     {
