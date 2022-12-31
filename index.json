@@ -29,7 +29,7 @@
     },
     {
         "package_version": "1.7",
-        "argos_version": "1.7",
+        "argos_version": "1.5",
         "from_code": "ca",
         "from_name": "Catalan",
         "to_code": "en",
@@ -41,7 +41,7 @@
     },
     {
         "package_version": "1.7",
-        "argos_version": "1.7",
+        "argos_version": "1.5",
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
@@ -138,7 +138,7 @@
     },
     {
         "package_version": "1.7",
-        "argos_version": "1.7",
+        "argos_version": "1.5",
         "from_code": "en",
         "from_name": "English",
         "to_code": "zh",
@@ -419,7 +419,7 @@
     },
     {
         "package_version": "1.7",
-        "argos_version": "1.7",
+        "argos_version": "1.5",
         "from_code": "en",
         "from_name": "English",
         "to_code": "ru",
@@ -783,7 +783,7 @@
     },
     {
         "package_version": "1.1",
-        "argos_version": "1.1",
+        "argos_version": "1.5",
         "from_code": "tr",
         "from_name": "Turkish",
         "to_code": "en",
