@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Download all packages into current directory
 
 import json
