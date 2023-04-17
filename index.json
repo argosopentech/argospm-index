@@ -406,6 +406,17 @@
         ]
     },
     {
+        "package_version": "1.0",
+        "argos_version": "1.5",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "th",
+        "to_name": "Thai",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_th-1_0.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "en",
@@ -667,6 +678,17 @@
         "links": [
             "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sv_en-1_5.argosmodel",
             "ipfs://QmTusbmKWwVGRkMABcBFNrNrYoAwTzvuUEaqLhzYr5yH36"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.5",
+        "from_code": "th",
+        "from_name": "Thai",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-th_en-1_0.argosmodel"
         ]
     },
     {
