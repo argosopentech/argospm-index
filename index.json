@@ -1,5 +1,16 @@
 [
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "sq",
+        "from_name": "Albanian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sq_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "ar",
@@ -24,6 +35,28 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "bn",
+        "from_name": "Bengali",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-bn_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "bg",
+        "from_name": "Bulgarian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-bg_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.7",
         "argos_version": "1.5",
         "from_code": "ca",
@@ -35,15 +68,25 @@
         ]
     },
     {
-        "package_version": "1.7",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "zt",
+        "from_name": "Chinese (traditional)",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-zt_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "zh",
         "from_name": "Chinese",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-zh_en-1_7.argosmodel",
-            "ipfs://QmPPLt4wWwhKgFV9YNzWtkB2Ak9oGy1LuYhCrhSuixC2Rm"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-zh_en-1_9.argosmodel"
         ]
     },
     {
@@ -82,6 +125,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "sq",
+        "to_name": "Albanian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_sq-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "en",
@@ -106,26 +160,58 @@
         ]
     },
     {
-        "package_version": "1.7",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "bn",
+        "to_name": "Bengali",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_bn-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "bg",
+        "to_name": "Bulgarian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_bg-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "ca",
         "to_name": "Catalan",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ca-1_7.argosmodel"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ca-1_9.argosmodel"
         ]
     },
     {
-        "package_version": "1.7",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "zh",
         "to_name": "Chinese",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_zh-1_7.argosmodel",
-            "ifps://QmZ9QmyRdwsYebNS4HPnfXKUsaREisoRe1Vd8W63F4MDiR"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_zh-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "zt",
+        "to_name": "Chinese (traditional)",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_zt-1_9.argosmodel"
         ]
     },
     {
@@ -176,6 +262,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "et",
+        "to_name": "Estonian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_et-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "en",
@@ -212,15 +309,14 @@
         ]
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "el",
         "to_name": "Greek",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_el-1_5.argosmodel",
-            "ipfs://QmRSbxeaCDaRnYAMoPu26ZPZKHqSDsjrtrL6FKG3o8Uq9T"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_el-1_9.argosmodel"
         ]
     },
     {
@@ -320,6 +416,50 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "lv",
+        "to_name": "Latvian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_lv-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "lt",
+        "to_name": "Lithuanian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_lt-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ms",
+        "to_name": "Malay",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ms-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "nb",
+        "to_name": "Norwegian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_nb-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "en",
@@ -332,15 +472,14 @@
         ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "pl",
         "to_name": "Polish",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_pl-1_1.argosmodel",
-            "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_pl-1_9.argosmodel"
         ]
     },
     {
@@ -356,6 +495,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ro",
+        "to_name": "Romanian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ro-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.7",
         "argos_version": "1.5",
         "from_code": "en",
@@ -368,6 +518,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "sr",
+        "to_name": "Serbian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_sr-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "en",
@@ -377,6 +538,17 @@
         "links": [
             "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_sk-1_5.argosmodel",
             "ipfs://QmdnA8chM6qnnsZKW7wJEcXumSq6LMsQbq2W2F7RX8tdc1"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "sl",
+        "to_name": "Slovenian",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_sl-1_9.argosmodel"
         ]
     },
     {
@@ -404,14 +576,25 @@
         ]
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "tl",
+        "to_name": "Tagalog",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_tl-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "th",
         "to_name": "Thai",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_th-1_0.argosmodel"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_th-1_9.argosmodel"
         ]
     },
     {
@@ -451,6 +634,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "et",
+        "from_name": "Estonian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-et_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "fi",
@@ -487,15 +681,14 @@
         ]
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "el",
         "from_name": "Greek",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-el_en-1_5.argosmodel",
-            "ipfs://QmYDsQfiBar7CzRrEkwN3ERgmScYhPWB92hNfnjb5pnoAx"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-el_en-1_9.argosmodel"
         ]
     },
     {
@@ -595,6 +788,61 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "lv",
+        "from_name": "Latvian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-lv_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "lt",
+        "from_name": "Lithuanian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-lt_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "ms",
+        "from_name": "Malay",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-ms_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "nb",
+        "from_name": "Norwegian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-nb_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "no",
+        "from_name": "Norwegian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-no_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "fa",
@@ -607,15 +855,14 @@
         ]
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "pl",
         "from_name": "Polish",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-pl_en-1_1.argosmodel",
-            "ipfs://QmZiUXYKqWtWp11ZVuCxyZzyBoRKduzdZge4Wr4D5bh7We"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-pl_en-1_9.argosmodel"
         ]
     },
     {
@@ -631,6 +878,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "ro",
+        "from_name": "Romanian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-ro_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "ru",
@@ -643,6 +901,17 @@
         ]
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "sr",
+        "from_name": "Serbian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sr_en-1_9.argosmodel"
+        ]
+    },
+    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "sk",
@@ -652,6 +921,17 @@
         "links": [
             "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sk_en-1_5.argosmodel",
             "ipfs://QmVdjFr4jLj4KAGykML4anJsbL61dLtuHnzDF52UEDHRij"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "sl",
+        "from_name": "Slovenian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sl_en-1_9.argosmodel"
         ]
     },
     {
@@ -679,14 +959,25 @@
         ]
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
+        "from_code": "tl",
+        "from_name": "Tagalog",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-tl_en-1_9.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "th",
         "from_name": "Thai",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-th_en-1_0.argosmodel"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-th_en-1_9.argosmodel"
         ]
     },
     {
