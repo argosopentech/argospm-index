@@ -832,17 +832,6 @@
         ]
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
-        "from_code": "no",
-        "from_name": "Norwegian",
-        "to_code": "en",
-        "to_name": "English",
-        "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-no_en-1_9.argosmodel"
-        ]
-    },
-    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "fa",
