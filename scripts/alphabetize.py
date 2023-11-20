@@ -1,5 +1,3 @@
-#!/bin/sh
-
 import json
 
 # Load the JSON data from the file

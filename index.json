@@ -310,15 +310,14 @@
         "code": "translate-en_fi"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "fr",
         "to_name": "French",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_fr-1_0.argosmodel",
-            "ipfs://QmTFDhZVeqDqXQk6DDt6wp9xA4L4yed7zup122Hh8cQtkk"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_fr-1_9.argosmodel"
         ],
         "code": "translate-en_fr"
     },
@@ -714,15 +713,14 @@
         "code": "translate-fi_en"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "fr",
         "from_name": "French",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-fr_en-1_0.argosmodel",
-            "ipfs://QmRVE85p59QDGZg2CMec3yAt9FwxbZAotjh34XKrzGGVEH"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-fr_en-1_9.argosmodel"
         ],
         "code": "translate-fr_en"
     },
