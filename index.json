@@ -562,18 +562,6 @@
         "code": "translate-en_ru"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "sr",
-        "to_name": "Serbian",
-        "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_sr-1_9.argosmodel"
-        ],
-        "code": "translate-en_sr"
-    },
-    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "en",
@@ -963,18 +951,6 @@
             "ipfs://QmTEfEov1eifNp2BkieaYzSaaKnL4L5UfG12SuS9n5XzJb"
         ],
         "code": "translate-ru_en"
-    },
-    {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
-        "from_code": "sr",
-        "from_name": "Serbian",
-        "to_code": "en",
-        "to_name": "English",
-        "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-sr_en-1_9.argosmodel"
-        ],
-        "code": "translate-sr_en"
     },
     {
         "package_version": "1.5",
