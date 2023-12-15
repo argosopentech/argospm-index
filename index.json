@@ -928,6 +928,18 @@
         "code": "translate-pt_en"
     },
     {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "pt",
+        "from_name": "Portuguese",
+        "to_code": "es",
+        "to_name": "Spanish",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-pt_es-1_0.argosmodel"
+        ],
+        "code": "translate-pt_es"
+    },
+    {
         "package_version": "1.9",
         "argos_version": "1.9.0",
         "from_code": "ro",
@@ -989,6 +1001,18 @@
             "ipfs://Qmcs4RKWoYh9bhkv4fWovnnJ2eQfox52GioYtjyPP3vYSB"
         ],
         "code": "translate-es_en"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "es",
+        "from_name": "Spanish",
+        "to_code": "pt",
+        "to_name": "Portuguese",
+        "links": [
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-es_pt-1_0.argosmodel"
+        ],
+        "code": "translate-es_pt"
     },
     {
         "package_version": "1.5",
