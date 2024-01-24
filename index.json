@@ -547,15 +547,14 @@
         "code": "translate-en_ro"
     },
     {
-        "package_version": "1.7",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9",
         "from_code": "en",
         "from_name": "English",
         "to_code": "ru",
         "to_name": "Russian",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ru-1_7.argosmodel",
-            "ipfs://QmW847X6RjmiwRLCQKbubtz1DGJgrVCNJ97crNQNZFGe7K"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-en_ru-1_9.argosmodel"
         ],
         "code": "translate-en_ru"
     },
@@ -950,15 +949,14 @@
         "code": "translate-ro_en"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9",
         "from_code": "ru",
         "from_name": "Russian",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-ru_en-1_0.argosmodel",
-            "ipfs://QmTEfEov1eifNp2BkieaYzSaaKnL4L5UfG12SuS9n5XzJb"
+            "https://pub-dbae765fb25a4114aac1c88b90e94178.r2.dev/v1/translate-ru_en-1_9.argosmodel"
         ],
         "code": "translate-ru_en"
     },
