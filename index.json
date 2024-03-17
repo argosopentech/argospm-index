@@ -672,18 +672,6 @@
         "code": "translate-en_ur"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9",
-        "from_code": "en",
-        "from_name": "English",
-        "to_code": "vi",
-        "to_name": "Vietnamese",
-        "links": [
-            "https://argos-net.com/v1/translate-en_vi-1_9.argosmodel"
-        ],
-        "code": "translate-en_vi"
-    },
-    {
         "package_version": "1.5",
         "argos_version": "1.5",
         "from_code": "eo",
@@ -1108,17 +1096,5 @@
             "https://argos-net.com/v1/translate-ur_en-1_9.argosmodel"
         ],
         "code": "translate-ur_en"
-    },
-    {
-        "package_version": "1.9",
-        "argos_version": "1.9",
-        "from_code": "vi",
-        "from_name": "Vietnamese",
-        "to_code": "en",
-        "to_name": "English",
-        "links": [
-            "https://argos-net.com/v1/translate-vi_en-1_9.argosmodel"
-        ],
-        "code": "translate-vi_en"
     }
 ]
