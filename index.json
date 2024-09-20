@@ -173,6 +173,18 @@
         "code": "translate-en_az"
     },
     {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "eu",
+        "to_name": "Basque",
+        "links": [
+            "https://argos-net.com/v1/translate-en_eu-1_0.argosmodel"
+        ],
+        "code": "translate-en_eu"
+    },
+    {
         "package_version": "1.9",
         "argos_version": "1.9.0",
         "from_code": "en",
