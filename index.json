@@ -320,6 +320,18 @@
         "code": "translate-en_fr"
     },
     {
+        "package_version": "1.9",
+        "argos_version": "1.9",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "gl",
+        "to_name": "Galician",
+        "links": [
+            "https://argos-net.com/v1/translate-en_gl-1_9.argosmodel"
+        ],
+        "code": "translate-en_gl"
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "en",
@@ -720,6 +732,18 @@
             "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel"
         ],
         "code": "translate-fr_en"
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9",
+        "from_code": "gl",
+        "from_name": "Galician",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argos-net.com/v1/translate-gl_en-1_9.argosmodel"
+        ],
+        "code": "translate-gl_en"
     },
     {
         "package_version": "1.0",
