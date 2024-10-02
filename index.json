@@ -39,6 +39,18 @@
     },
     {
         "package_version": "1.9",
+        "argos_version": "1.9",
+        "from_code": "eu",
+        "from_name": "Basque",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argos-net.com/v1/translate-eu_en-1_9.argosmodel"
+        ],
+        "code": "translate-eu_en"
+    },
+    {
+        "package_version": "1.9",
         "argos_version": "1.9.0",
         "from_code": "bn",
         "from_name": "Bengali",
@@ -171,6 +183,18 @@
             "ipfs://QmNn1rBjRvGjTycGnKq7PoMrro4BvyTHT7nXu3sgqbo1RH"
         ],
         "code": "translate-en_az"
+    },
+    {
+        "package_version": "1.9",
+        "argos_version": "1.9",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "eu",
+        "to_name": "Basque",
+        "links": [
+            "https://argos-net.com/v1/translate-en_eu-1_9.argosmodel"
+        ],
+        "code": "translate-en_eu"
     },
     {
         "package_version": "1.9",
