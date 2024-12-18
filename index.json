@@ -110,27 +110,26 @@
         "code": "translate-zh_en"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9",
+        "package_version": "1.9.6",
+        "argos_version": "1.9.6",
         "from_code": "cs",
         "from_name": "Czech",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-cs_en-1_9.argosmodel"
+            "https://argos-net.com/v1/translate-cs_en-1_9_6.argosmodel"
         ],
         "code": "translate-cs_en"
     },
     {
-        "package_version": "1.3",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "da",
         "from_name": "Danish",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-da_en-1_3.argosmodel",
-            "ipfs://QmQHNmJRqi8n85kbJgFdd61vX74FL5DeQB51WYzBzd98zH"
+            "https://argos-net.com/v1/translate-da_en-1_9.argosmodel"
         ],
         "code": "translate-da_en"
     },
@@ -257,27 +256,26 @@
         "code": "translate-en_zt"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9",
+        "package_version": "1.9.6",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "cs",
         "to_name": "Czech",
         "links": [
-            "https://argos-net.com/v1/translate-en_cs-1_9.argosmodel"
+            "https://argos-net.com/v1/translate-en_cs-1_9_6.argosmodel"
         ],
         "code": "translate-en_cs"
     },
     {
-        "package_version": "1.3",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "da",
         "to_name": "Danish",
         "links": [
-            "https://argos-net.com/v1/translate-en_da-1_3.argosmodel",
-            "ifps://QmRmYhBKr4FMgZ2fSYrf8ZRpjdyLRdattzm6tbj5z2wN8X"
+            "https://argos-net.com/v1/translate-en_da-1_9.argosmodel"
         ],
         "code": "translate-en_da"
     },
@@ -319,15 +317,14 @@
         "code": "translate-en_et"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "fi",
         "to_name": "Finnish",
         "links": [
-            "https://argos-net.com/v1/translate-en_fi-1_5.argosmodel",
-            "ifps://QmRDSD2FXE8Nxf9UEuRcNAzQ4azEWiGAHgZv3jWvXau6Y5"
+            "https://argos-net.com/v1/translate-en_fi-1_9.argosmodel"
         ],
         "code": "translate-en_fi"
     },
@@ -356,15 +353,14 @@
         "code": "translate-en_gl"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "de",
         "to_name": "German",
         "links": [
-            "https://argos-net.com/v1/translate-en_de-1_0.argosmodel",
-            "ipfs://QmfVPk8rZmHwfxMzpnFKZ73CkNbPGzQDDq8wGEvPtcDoyW"
+            "https://argos-net.com/v1/translate-en_de-1_9.argosmodel"
         ],
         "code": "translate-en_de"
     },
@@ -407,28 +403,26 @@
         "code": "translate-en_hi"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "hu",
         "to_name": "Hungarian",
         "links": [
-            "https://argos-net.com/v1/translate-en_hu-1_5.argosmodel",
-            "ipfs://QmZQTGaxRviadGfvixsSjKuhFpD13hjUMN2D3wAKrcctmK"
+            "https://argos-net.com/v1/translate-en_hu-1_9.argosmodel"
         ],
         "code": "translate-en_hu"
     },
     {
-        "package_version": "1.2",
-        "argos_version": "1.2",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "id",
         "to_name": "Indonesian",
         "links": [
-            "https://argos-net.com/v1/translate-en_id-1_2.argosmodel",
-            "ipfs://QmRgVwNeuX8wBtwih8Ef1R6Frg8jQv8tVTBJf3rfH2PGn5"
+            "https://argos-net.com/v1/translate-en_id-1_9.argosmodel"
         ],
         "code": "translate-en_id"
     },
@@ -595,15 +589,14 @@
         "code": "translate-en_ru"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "sk",
         "to_name": "Slovak",
         "links": [
-            "https://argos-net.com/v1/translate-en_sk-1_5.argosmodel",
-            "ipfs://QmdnA8chM6qnnsZKW7wJEcXumSq6LMsQbq2W2F7RX8tdc1"
+            "https://argos-net.com/v1/translate-en_sk-1_9.argosmodel"
         ],
         "code": "translate-en_sk"
     },
@@ -733,15 +726,14 @@
         "code": "translate-et_en"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "fi",
         "from_name": "Finnish",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-fi_en-1_5.argosmodel",
-            "ipfs://QmWaSo6N5kXgojkziQCJH1eVSy3wcPusiykLgvAoqS4V9y"
+            "https://argos-net.com/v1/translate-fi_en-1_9.argosmodel"
         ],
         "code": "translate-fi_en"
     },
@@ -770,15 +762,14 @@
         "code": "translate-gl_en"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "de",
         "from_name": "German",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-de_en-1_0.argosmodel",
-            "ipfs://QmPRsSinizA4MPNVi4TZrWkhgAKgX4kEKwZ2jkHeghx1Dr"
+            "https://argos-net.com/v1/translate-de_en-1_9.argosmodel"
         ],
         "code": "translate-de_en"
     },
@@ -821,28 +812,26 @@
         "code": "translate-hi_en"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "hu",
         "from_name": "Hungarian",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-hu_en-1_5.argosmodel",
-            "ipfs://QmfEXxSieewThZ45jvSQXJUJaow6vZmVgyVbhNyXPbwXHr"
+            "https://argos-net.com/v1/translate-hu_en-1_9.argosmodel"
         ],
         "code": "translate-hu_en"
     },
     {
-        "package_version": "1.2",
-        "argos_version": "1.2",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "id",
         "from_name": "Indonesian",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-id_en-1_2.argosmodel",
-            "ipfs://QmbxUki3VtfzuqX9AL8EzZBTC3LbqzFU1bsj46k5wKsBor"
+            "https://argos-net.com/v1/translate-id_en-1_9.argosmodel"
         ],
         "code": "translate-id_en"
     },
@@ -886,15 +875,14 @@
         "code": "translate-ja_en"
     },
     {
-        "package_version": "1.1",
-        "argos_version": "1.1",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "ko",
         "from_name": "Korean",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-ko_en-1_1.argosmodel",
-            "ipfs://QmagkMMHshubVk8XT3sXow5Y9vzBoz3rbN2HAAGL9vQsKY"
+            "https://argos-net.com/v1/translate-ko_en-1_9.argosmodel"
         ],
         "code": "translate-ko_en"
     },
@@ -1021,15 +1009,14 @@
         "code": "translate-ru_en"
     },
     {
-        "package_version": "1.5",
-        "argos_version": "1.5",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "sk",
         "from_name": "Slovak",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-sk_en-1_5.argosmodel",
-            "ipfs://QmVdjFr4jLj4KAGykML4anJsbL61dLtuHnzDF52UEDHRij"
+            "https://argos-net.com/v1/translate-sk_en-1_9.argosmodel"
         ],
         "code": "translate-sk_en"
     },
@@ -1046,15 +1033,14 @@
         "code": "translate-sl_en"
     },
     {
-        "package_version": "1.0",
-        "argos_version": "1.0",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "es",
         "from_name": "Spanish",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-es_en-1_0.argosmodel",
-            "ipfs://Qmcs4RKWoYh9bhkv4fWovnnJ2eQfox52GioYtjyPP3vYSB"
+            "https://argos-net.com/v1/translate-es_en-1_9.argosmodel"
         ],
         "code": "translate-es_en"
     },
@@ -1121,15 +1107,14 @@
         "code": "translate-tr_en"
     },
     {
-        "package_version": "1.4",
-        "argos_version": "1.4",
+        "package_version": "1.9",
+        "argos_version": "1.9.0",
         "from_code": "uk",
-        "from_name": "Ukranian",
+        "from_name": "Ukrainian",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-uk_en-1_4.argosmodel",
-            "ipfs://QmX4DNcxd1E6uVnD6qyZ1TwVq7569VkJbP6G3kxownM2qx"
+            "https://argos-net.com/v1/translate-uk_en-1_9.argosmodel"
         ],
         "code": "translate-uk_en"
     },
