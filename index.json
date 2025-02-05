@@ -353,14 +353,14 @@
         "code": "translate-en_gl"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
+        "package_version": "1.0",
+        "argos_version": "1.0",
         "from_code": "en",
         "from_name": "English",
         "to_code": "de",
         "to_name": "German",
         "links": [
-            "https://argos-net.com/v1/translate-en_de-1_9.argosmodel"
+            "https://argos-net.com/v1/translate-en_de-1_0.argosmodel"
         ],
         "code": "translate-en_de"
     },
@@ -762,14 +762,14 @@
         "code": "translate-gl_en"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
+        "package_version": "1.0",
+        "argos_version": "1.0",
         "from_code": "de",
         "from_name": "German",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-de_en-1_9.argosmodel"
+            "https://argos-net.com/v1/translate-de_en-1_0.argosmodel"
         ],
         "code": "translate-de_en"
     },
@@ -875,14 +875,14 @@
         "code": "translate-ja_en"
     },
     {
-        "package_version": "1.9",
-        "argos_version": "1.9.0",
+        "package_version": "1.1",
+        "argos_version": "1.1",
         "from_code": "ko",
         "from_name": "Korean",
         "to_code": "en",
         "to_name": "English",
         "links": [
-            "https://argos-net.com/v1/translate-ko_en-1_9.argosmodel"
+            "https://argos-net.com/v1/translate-ko_en-1_1.argosmodel"
         ],
         "code": "translate-ko_en"
     },
