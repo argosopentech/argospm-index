@@ -479,6 +479,18 @@
         "code": "translate-en_ko"
     },
     {
+        "package_version": "1.4",
+        "argos_version": "1.9",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ky",
+        "to_name": "Kyrgyz",
+        "links": [
+            "https://argos-net.com/v1/translate-en_ky-1_4.argosmodel"
+        ],
+        "code": "translate-en_ky"
+    },
+    {
         "package_version": "1.9",
         "argos_version": "1.9.0",
         "from_code": "en",
@@ -896,6 +908,18 @@
             "https://argos-net.com/v1/translate-ko_en-1_1.argosmodel"
         ],
         "code": "translate-ko_en"
+    },
+    {
+        "package_version": "1.4",
+        "argos_version": "1.9",
+        "from_code": "ky",
+        "from_name": "Kyrgyz",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://argos-net.com/v1/translate-ky_en-1_4.argosmodel"
+        ],
+        "code": "translate-ky_en"
     },
     {
         "package_version": "1.9",
