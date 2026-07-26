@@ -527,6 +527,18 @@
         "code": "translate-en_ms"
     },
     {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "mn",
+        "to_name": "Mongolian",
+        "links": [
+            "https://huggingface.co/Tsengel-mn/argos-mongolian/resolve/main/en-mn.argosmodel"
+        ],
+        "code": "translate-en_mn"
+    },
+    {
         "package_version": "1.9",
         "argos_version": "1.9.0",
         "from_code": "en",
@@ -980,6 +992,18 @@
             "https://argos-net.com/v1/translate-ms_en-1_9.argosmodel"
         ],
         "code": "translate-ms_en"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "mn",
+        "from_name": "Mongolian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://huggingface.co/Tsengel-mn/argos-mongolian/resolve/main/mn-en.argosmodel"
+        ],
+        "code": "translate-mn_en"
     },
     {
         "package_version": "1.9",
