@@ -49,6 +49,9 @@ $(document).ready(function(){
 	success: function(response) {
             var data = $.parseJSON(response);
 	    $.each(data, function(i, packageData) {
+		if (!packageData.links || packageData.links.length === 0 || !packageData.links[0].endsWith('.argosmodel')) {
+			return;
+		}
 		var tr = $("<tr>");
 		var fromName = $("<td/>").append(packageData.from_name);
 		tr.append(fromName);
